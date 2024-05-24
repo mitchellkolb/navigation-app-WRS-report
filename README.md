@@ -105,14 +105,14 @@ Non-Functional Requirements
 
 ### Challenges and Solutions
 
-1. Designing a navigation system for varied indoor environments.
-Solution: Implementing a customizable layout feature and using user feedback to refine designs.
+- Challenge 1: Designing a navigation system for varied indoor environments.
+    - Solution: Implementing a customizable layout feature and using user feedback to refine designs.
 
-2. Ensuring the app is accessible and user-friendly for visually impaired users.
-Solution: Incorporating voice-over technology and intuitive user interface designs, along with thorough testing with visually impaired individuals.
+- Challenge 2: Ensuring the app is accessible and user-friendly for visually impaired users.
+    - Solution: Incorporating voice-over technology and intuitive user interface designs, along with thorough testing with visually impaired individuals.
 
-3. Detecting obstacles accurately and providing real-time updates.
-Solution: Initially considered using phone cameras for obstacle detection but opted for a simpler and more reliable solution using predefined safe routes and user feedback mechanisms.
+- Challenge 3: Detecting obstacles accurately and providing real-time updates.
+    - Solution: Initially considered using phone cameras for obstacle detection but opted for a simpler and more reliable solution using predefined safe routes and user feedback mechanisms.
 
 ## References
 - Lookout: an app to help blind and visually impaired people learn about their surroundings. Blog by Google.
