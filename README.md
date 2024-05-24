@@ -105,13 +105,13 @@ Non-Functional Requirements
 
 ### Challenges and Solutions
 
-Challenge 1: Designing a navigation system for varied indoor environments.
+1. Designing a navigation system for varied indoor environments.
 Solution: Implementing a customizable layout feature and using user feedback to refine designs.
 
-Challenge 2: Ensuring the app is accessible and user-friendly for visually impaired users.
+2. Ensuring the app is accessible and user-friendly for visually impaired users.
 Solution: Incorporating voice-over technology and intuitive user interface designs, along with thorough testing with visually impaired individuals.
 
-Challenge 3: Detecting obstacles accurately and providing real-time updates.
+3. Detecting obstacles accurately and providing real-time updates.
 Solution: Initially considered using phone cameras for obstacle detection but opted for a simpler and more reliable solution using predefined safe routes and user feedback mechanisms.
 
 ## References
