@@ -55,20 +55,68 @@ The objective of this project is to make an app that will assist blind and visua
 ## Project Details
 
 ### Introduction
-In this project, we apply 
-
+In this project, we apply the principles of agile software development to create an indoor navigation app for the blind and visually impaired. Our primary goal is to help these individuals navigate indoor environments safely and efficiently using voice-over and assistive technologies. The app will be prototyped using Figma, allowing us to test and refine the user interface based on user feedback and interaction.
 
 ### Literature Review
-In this we drew inspiration from various sources
+In developing our app, we drew inspiration from various sources, including existing technologies like Google's Lookout app and navigation aids used in Google Maps for visually impaired users. These sources provided valuable insights into the challenges and solutions in designing accessible navigation systems, helping us to define our project's goals and requirements more clearly.
 
+### Objectives and Success Criteria
+
+- Allow for voice-over navigation.
+- Ensure the app works quickly and efficiently.
+- Design an intuitive layout for visually impaired users.
+- Complete all tasks assigned to each group member.
+- Build and test the prototype using Flutterflow.
+- Test for non-intended inputs and ensure correct responses.
+- Create a save building layout function that can add multiple buildings.
+- Ensure users can navigate buildings with minimal obstacles.
 
 ### Technical Plan
-The project employs a 
+The project employs a detailed technical plan encompassing both functional and non-functional requirements. Functional requirements include accepting user destination inputs, verifying locations, providing step-by-step navigation instructions, detecting obstacles, and handling emergency situations. Non-functional requirements focus on ensuring safety, usability, affordability, and reliability. The app's design incorporates feedback mechanisms like vibrations and audio cues to guide users and improve their navigation experience.
 
+### Development Process
 
+Our development process followed the Agile methodology, allowing us to iteratively improve the app based on continuous feedback. The main phases included:
+
+- Planning: Establishing project goals, scope, and requirements.
+- Analysis: Analyzing user needs and defining system requirements.
+- Design: Creating user interface designs and system architecture using Figma.
+- Implementation: Developing the app prototype using Flutterflow.
+- Testing: Conducting rigorous testing to ensure functionality and usability.
+- Deployment: Preparing for the deployment of the final prototype.
+- Maintenance: Planning for future updates and improvements.
+
+### Functional and Non-Functional Requirements
+Functional Requirements
+
+- Accept user destination inputs.
+- Verify destination locations.
+- Provide navigation instructions (e.g., distance and direction).
+- Detect obstacles and inform the user.
+- Handle emergency situations and notify caretakers.
+
+Non-Functional Requirements
+
+- Ensure user safety during navigation.
+- Maintain usability and user-friendliness.
+- Keep the system cost-effective.
+- Allow customization for user preferences.
+- Ensure system reliability and robustness.
+
+### Challenges and Solutions
+
+Challenge 1: Designing a navigation system for varied indoor environments.
+Solution: Implementing a customizable layout feature and using user feedback to refine designs.
+
+Challenge 2: Ensuring the app is accessible and user-friendly for visually impaired users.
+Solution: Incorporating voice-over technology and intuitive user interface designs, along with thorough testing with visually impaired individuals.
+
+Challenge 3: Detecting obstacles accurately and providing real-time updates.
+Solution: Initially considered using phone cameras for obstacle detection but opted for a simpler and more reliable solution using predefined safe routes and user feedback mechanisms.
 
 ## References
-
+- Lookout: an app to help blind and visually impaired people learn about their surroundings. Blog by Google.
+- Professor. Bolong Zeng course material
 
 
 --- 
