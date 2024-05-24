@@ -22,9 +22,9 @@
     alt="Website Badge" />
 </p>
 
-This project is intended to showcase our knowledge learning about Neural Network Design by developing a
+This project is intended to showcase the Indoor Navigation App for the Visually Impaired that we documented. Our team wrote a WRS document (Work Requirements Specification document), that goes into detail about how we would have made an app that will assist the blind and visually impaired so they can navigate indoors. Our focus in the project was to learn how to write effective documentation and thinking through the entire process that a team would go through when developing an app.
 
-![project image](resources/APP-Manual.png)
+![WRS user manual](resources/APP-Manual.png)
 
 
 
