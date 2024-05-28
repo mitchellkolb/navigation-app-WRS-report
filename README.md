@@ -28,15 +28,36 @@ This project is intended to showcase the Indoor Navigation App for the Visually 
 
 
 
+---
+
+# Table of Contents
+- [What I Learned in this Project](#what-i-learned-in-this-project)
+- [Tools Used / Development Environment](#tools-used--development-environment)
+- [Team / Contributors / Teachers](#team--contributors--teachers)
+- [Project Overview](#project-overview)
+  - [Introduction](#introduction)
+  - [Literature Review](#literature-review)
+  - [Objectives and Success Criteria](#objectives-and-success-criteria)
+  - [Technical Plan](#technical-plan)
+  - [Development Process](#development-process)
+  - [Functional and Non-Functional Requirements](#functional-and-non-functional-requirements)
+  - [Challenges and Solutions](#challenges-and-solutions)
+- [References](#references)
+- [Acknowledgments](#acknowledgments)
+
+---
+
+# What I Learned in this Project
+- How to determine stakeholders requirements using multiple standard techniques.
+- Writing a WRS Document (Word Requirement Specification).
+- How to produce specifications with functional and non-functional requirements based on elicited requirements.
+- Applying standard quality assurance techniques to ensure that requirements are: verifiable, traceable, measurable, testable, accurate, unambiguous, consistent, and complete.
+- General ideas learned while completing the project: Requirement Engineering, System Engineering, SDLC (Software Development Lifecycle), Error Propagation, WRS Document (Word Requirement Specification), Functional/Non-Functional Requirements, TO-BE, AS-IS, Analytic Hierarchy Process (AHP) Approach, Scope Creep, Data Flow Diagram (DFD), IDEF0 Models, and the WRSPM Model.
 
 # Tools Used / Development Environment
 - Google Docs (Draft)
 - Microsoft Word (Final Draft)
 - Windows 10
-
-
-
-
 
 # Team / Contributors / Teachers
 - [Mitchell Kolb](https://github.com/mitchellkolb)
@@ -44,8 +65,6 @@ This project is intended to showcase the Indoor Navigation App for the Visually 
 - Mohammed Al Ahbabi 
 - Callum MacDonald
 - Professor. Bolong Zeng
-
-
 
 # Project Overview
 The objective of this project is to make an app that will assist blind and visually impaired people so they can navigate indoors. We want to be able to help people using our design. This will be done by using the agile process where we will establish the requirements, design, test and deploy our prototype. The application will be using things such as voice over and assistive technology in order to make it effective in helping the user. The application implementation will be done using a prototyping software that allows us to test the user interface, as well as design.
@@ -72,7 +91,7 @@ In developing our app, we drew inspiration from various sources, including exist
 - Ensure users can navigate buildings with minimal obstacles.
 
 ### Technical Plan
-The project employs a detailed technical plan encompassing both functional and non-functional requirements. Functional requirements include accepting user destination inputs, verifying locations, providing step-by-step navigation instructions, detecting obstacles, and handling emergency situations. Non-functional requirements focus on ensuring safety, usability, affordability, and reliability. The app's design incorporates feedback mechanisms like vibrations and audio cues to guide users and improve their navigation experience.
+The project displays a detailed technical plan encompassing both functional and non-functional requirements. Functional requirements include accepting user destination inputs, verifying locations, providing step-by-step navigation instructions, detecting obstacles, and handling emergency situations. Non-functional requirements focus on ensuring safety, usability, affordability, and reliability. The app's design incorporates feedback mechanisms like vibrations and audio cues to guide users and improve their navigation experience.
 
 ### Development Process
 
